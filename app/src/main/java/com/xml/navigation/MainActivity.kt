@@ -4,7 +4,6 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import android.widget.EditText
 
 class MainActivity : AppCompatActivity() {
 
@@ -17,7 +16,16 @@ class MainActivity : AppCompatActivity() {
         btNavigate = findViewById(R.id.bt_navigate)
 
         btNavigate.setOnClickListener {
+
+            val user = User(
+                name = "Bino",
+                age = 50,
+                isSubscribe = true,
+                score = 1234.56
+            )
+
             val intent = Intent(this, HomeActivity::class.java)
+            intent.putExtra("user", user)
             startActivity(intent)
         }
     }

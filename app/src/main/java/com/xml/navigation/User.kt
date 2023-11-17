@@ -7,7 +7,7 @@ data class User(
     val age: Int,
     val isSubscribe: Boolean,
     val score: Double,
-    val level: Float,
     val ranking: Long,
-    val userClass: Char
+    val userClass: Char,
+    val level: Float
 ) : Serializable

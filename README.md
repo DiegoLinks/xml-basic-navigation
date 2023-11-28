@@ -23,7 +23,7 @@ val intent = Intent(this, HomeActivity::class.java)
 startActivity(intent)
 ```
 
-Link do tutorial: (Estará disponível em breve)
+Link do tutorial: https://www.youtube.com/watch?v=xqEmM2u15JQ&t=3s
 
 ## Código básico para passar parâmetros entre telas:
 

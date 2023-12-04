@@ -64,7 +64,7 @@ intent.putExtra("score", score)
 startActivity(intent)
 ```
 
-Link do tutorial: (Estará disponível em breve)
+Link do tutorial: https://www.youtube.com/watch?v=gEvjCxe3ZBc
 
 ## Código básico para passar objetos entre telas:
 

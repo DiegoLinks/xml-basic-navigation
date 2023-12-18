@@ -94,7 +94,7 @@ Na tela de destino use a Intent para receber o objeto que foi enviado:
 val user = intent.getSerializableExtra("user") as User
 ```
 
-Link do tutorial: (Estará disponível em breve)
+Link do tutorial: https://www.youtube.com/watch?v=OWGOlmVZeyk
 
 ## Observações importantes
 

@@ -1,6 +1,6 @@
 # Navegação básica em aplicativos Android Nativo com XML
 
-Aqui temos o código fonte de um tutorial gravado em vídeo disponibilizado gratuitamente no youtube: https://www.youtube.com/playlist?list=PLkwgaJSkQE72uFrk_wVlvr5JUnHfv2IUx
+Aqui temos o código fonte de um tutorial gravado em vídeo disponibilizado gratuitamente no youtube: https://www.youtube.com/watch?v=xqEmM2u15JQ&list=PLkwgaJSkQE70-JUYbS0qfT56P35aaHDfp
 
 ![Cópia de Sem nome](https://github.com/DiegoLinks/xml-basic-navigation/assets/36086232/dee9711c-fca8-45d7-889c-ba19f5865a6e)
 

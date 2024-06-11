@@ -2,7 +2,7 @@
 
 Aqui temos o código fonte de um tutorial gravado em vídeo disponibilizado gratuitamente no youtube: https://www.youtube.com/watch?v=xqEmM2u15JQ&list=PLkwgaJSkQE70-JUYbS0qfT56P35aaHDfp
 
-![Cópia de Sem nome](https://github.com/DiegoLinks/xml-basic-navigation/assets/36086232/dee9711c-fca8-45d7-889c-ba19f5865a6e)
+![Cópia de Sem nome](![Cópia de Sem nome](https://github.com/DiegoLinks/xml-basic-navigation/assets/36086232/65e17e64-ebe4-4eee-b909-f30d60a08de1))
 
 Nesse repositório está disponível o código do tutorial de 3 etapas, sobre navegação, passagem de parâmetros e de objetos entre telas usando o Intent em um aplicativo Android Nativo com XML.
 
